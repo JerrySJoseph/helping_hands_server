@@ -1,0 +1,11 @@
+{
+  "name": "Helping-Hands-Cloud-Server",
+  "db_conn_string": "mongodb://localhost:27017/helping-hands-db",
+  "debug":true,
+  "devices": [
+    {
+      "SHA_256": "zM7CDz7zzo24Mhs/h0y9fRoMBwEFHahXQM+n5lesKJ8=",
+      "package_name": "com.jstechnologies.helpinghands"
+    }
+  ]
+}
